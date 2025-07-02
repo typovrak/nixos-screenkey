@@ -20,14 +20,13 @@
     "vis_shift": false,
     "vis_space": true,
     "geometry": [
-        3326,
-        635,
-        514,
-        55
+        3354,
+        386,
+        486,
+        35
     ],
     "screen": 0,
     "start_disabled": false,
     "mouse": false,
     "button_hide_duration": 1
 }
-
